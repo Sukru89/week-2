@@ -1,0 +1,87 @@
+.backroundcolor {
+  background-color: rgb(64, 64, 97);
+  height: 100px;
+}
+.hicoders {
+  text-align: center;
+}
+.paragraph {
+  border: 2px solid rgb(109, 31, 31);
+  width: 940px;
+  background-color: pink;
+  margin-left: 400px;
+  margin-top: -175px;
+  font-size: large;
+}
+.catagories {
+  border: 1px solid black;
+  width: 300px;
+  margin-top: 50px;
+  margin-left: 20px;
+  color: white;
+  background-color: rgb(77, 73, 73);
+  font-size: 18px;
+  padding: 5px;
+}
+h1 {
+  font-size: 24px;
+}
+.home {
+  margin-left: 1400px;
+  margin-top: -50px;
+}
+.footer {
+  background-color: rgb(41, 36, 36);
+  color: white;
+  text-align: center;
+  margin-top: 100px;
+  font-size: larger;
+  height: 10px;
+  padding: 30px;
+}
+
+.list {
+  font-size: larger;
+  margin: 3px;
+  margin-left: -35px;
+  text-decoration: none;
+  
+}
+
+.buton {
+  border-width: 2px;
+  border-radius: 200px 20px 200px 20px;
+  background-color: red;
+  color: white;
+  font-size: 20px;
+}
+.basket {
+  border: solid;
+  border-radius: 100%;
+  margin-left: 70px;
+  margin-top: 15px;
+  width: 90px;
+}
+.laptops {
+  color: white;
+  text-decoration: none;
+}
+.phones {
+  color: white;
+  text-decoration: none;
+}
+.accessories {
+  color: white;
+  text-decoration: none;
+  
+ 
+}
+.buttonhome {
+  width: 40px;
+  margin-left: 90px;
+  margin-top: 40;
+}
+a:hover{
+  background-color: red;
+
+}
